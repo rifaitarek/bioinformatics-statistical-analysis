@@ -1,6 +1,6 @@
 # Dental Growth Analysis in R
 
-This repository contains an R script that performs statistical analysis on growth data over time. The analysis focuses on exploring the relationship between age, sex, and growth measurements using various statistical methods. The dataset includes measurements taken at different ages and across different sexes.
+This repository contains an R script that performs statistical analysis on dental growth data over time. The analysis focuses on exploring the relationship between age, sex, and growth measurements using various statistical methods. The dataset includes measurements taken at different ages and across different sexes.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ This repository contains an R script that performs statistical analysis on growt
 - [License](#license)
 
 ## Introduction
-The goal of this analysis is to understand how growth measurements vary with age and sex using R. The analysis includes descriptive statistics, data visualization, linear regression, and mixed-effects models.
+The goal of this analysis is to understand how dental growth measurements vary with age and sex using R. The analysis includes descriptive statistics, data visualization, linear regression, and mixed-effects models.
 
 ## Data
 The dataset used for this analysis is `growth_txt.txt`, which includes the following variables:
